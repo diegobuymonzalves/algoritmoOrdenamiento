@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1604183800 source:c:\users\marni\documents\develop\cpp\algoritmoordenamiento\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fcntl.h>
+	<io.h>
+	<stdexcept>
+
